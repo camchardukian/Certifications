@@ -1,4 +1,4 @@
-In this repository I've included some of the certifications I've earned to improve my skills as a web developer.
+In this repository I've included some of the certifications I've earned to improve my skills as a software developer.
 
 Some organizations I've earned certificates from include:
 

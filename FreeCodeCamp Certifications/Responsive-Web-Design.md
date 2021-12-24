@@ -1,7 +1,7 @@
 # FreeCodeCamp Responsive Web Design Developer Certification
 
 **Background Information:**
-FreeCodeCamp is a non-profit organization with an interactive learning platform and online community forum that strives to make learning web development accessible to everyone.
+FreeCodeCamp is an open-source community that offers developers a structured software development curriculum that focuses on project based learning and critical thinking rather than merely following along with tutorials.
 
 The *FreeCodeCamp Responsive Web Design Developer Certification* consists of coursework and five projects. 
 

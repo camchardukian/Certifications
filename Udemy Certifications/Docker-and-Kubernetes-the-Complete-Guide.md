@@ -12,7 +12,7 @@ The _Docker and Kubernetes: the Complete Guide Certification_ covers a number of
 - Kubernetes production deployment
 - HTTPS setup with Kubernetes
 
-![](images/Docker-Kubernetes-Complete-Guide.png)
+![](images/Docker-Kubernetes-Complete-Guide.jpeg)
 
 **Languages and Technologies:** Docker, Kubernetes, AWS, Elastic Beanstalk, Google Cloud, GitHub Actions, Redis, Ingress
 

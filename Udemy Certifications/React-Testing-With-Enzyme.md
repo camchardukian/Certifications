@@ -1,8 +1,5 @@
 # React Testing with Jest and Enzyme Certification
 
-**Background Information:**
-Udemy is an online course provider that arranges coursework into a series of modules that can include videos, exercises, and assessments.
-
 A few of the topics the _React Testing with Jest and Enzyme Certification_ covers include:
 
 - How to test React components, hooks, and Redux using Jest and Enzyme

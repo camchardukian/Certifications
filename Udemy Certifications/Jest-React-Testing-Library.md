@@ -1,8 +1,5 @@
 # Testing React with Jest and Testing Library Certification
 
-**Background Information:**
-Udemy is an online course provider that arranges coursework into a series of modules that can include videos, exercises, and assessments.
-
 A few of the topics the _Testing React with Jest and Testing Library Certification_ covers include:
 
 - React Testing Library best practices

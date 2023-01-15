@@ -1,8 +1,5 @@
 # Docker and Kubernetes: the Complete Guide Certification
 
-**Background Information:**
-Udemy is an online course provider that arranges coursework into a series of modules that can include videos, exercises, and assessments.
-
 The _Docker and Kubernetes: the Complete Guide Certification_ covers a number of topics such as:
 
 - Docker containers, images, and services

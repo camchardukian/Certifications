@@ -10,6 +10,14 @@ AWS Certifications help learners build credibility and confidence by validating 
 
 They are also useful for helping organizations identify skilled professionals to lead cloud initiatives using AWS.
 
+## Code With Mosh
+
+Code With Mosh is an online learning platform created by Mosh Hamedani.
+
+His courses cover a wide range of programming languages such as Python, JavaScript, Java, and more.
+
+The courses offer practical knowledge and provide hands-on exercises and projects to reinforce the concepts being taught.
+
 ## FreeCodeCamp
 
 FreeCodeCamp is an open-source community that offers developers a structured software development curriculum that focuses on project based learning and critical thinking rather than merely following along with tutorials.

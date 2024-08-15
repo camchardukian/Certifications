@@ -39,3 +39,9 @@ He instead teaches real-world skills and covers topics so deeply such that passi
 ## Udemy
 
 Udemy is a popular online course provider that arranges coursework into a series of modules that can include videos, exercises, and assessments.
+
+## University of Finland
+
+The University of Finland offers a prestigious series of MOOCs (Massive Open Online Courses) that are designed to mirror the rigor and depth of their on-site courses.
+
+These courses are often recognized as equivalent to traditional college courses and, in many cases, can even be redeemed for college credit.

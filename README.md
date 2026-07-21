@@ -36,6 +36,18 @@ His philosophy is that courses tailored to passing certifications are a waste of
 
 He instead teaches real-world skills and covers topics so deeply such that passing the certification exams is merely a byproduct of completing his courses.
 
+## Linux Professional Institute (LPI)
+
+Linux Professional Institute is a global certification organization focused on Linux, open-source technologies, and the professionals who use them.
+
+Its Linux Essentials certification validates foundational knowledge of the Linux operating system, the command line, security, and the open-source ecosystem.
+
+## PeopleCert
+
+PeopleCert provides professional certifications in areas such as IT service management and project management.
+
+Its ITIL certifications validate knowledge of widely used practices for creating, delivering, and continually improving technology-enabled services.
+
 ## Udemy
 
 Udemy is a popular online course provider that arranges coursework into a series of modules that can include videos, exercises, and assessments.
